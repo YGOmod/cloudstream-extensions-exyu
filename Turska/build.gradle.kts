@@ -22,5 +22,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://turskeserije.tv/wp-content/themes/turskeserije/assets/css/img/favicon.png"
+    iconUrl = "https://www.google.com/s2/favicons?domain=turskeserije.tv&sz=%size%"
 }
